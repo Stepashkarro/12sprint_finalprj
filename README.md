@@ -41,6 +41,7 @@ env:
 
 ```yaml
 # Использую GitHub Container Registry, т.к. Docker Hub недоступен
+# В 12 спринте тоже
 ```
 
 
